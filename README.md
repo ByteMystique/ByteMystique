@@ -1,6 +1,5 @@
 ## Hi there 👋 Jayadev Narayanan this side
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Full stack blood bank application => RaktaMitra
 - 🌱 I’m currently learning Flutter and MERN 
