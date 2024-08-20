@@ -6,5 +6,4 @@
 - 👯 I’m looking to collaborate on Full stack web development 
 - 📫 How to reach me: e-mail : jayadev.hackathon@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The QWERTY keyboard layout was designed to slow down typing... LOL!
 -->
