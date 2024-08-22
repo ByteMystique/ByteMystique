@@ -1,4 +1,4 @@
-## Hi there 👋 Jayadev Narayanan this side
+##<c> Hi there 👋 Jayadev Narayanan this side </c>
 
 
 - 🔭 I’m currently working on a Full stack blood bank application => RaktaMitra
