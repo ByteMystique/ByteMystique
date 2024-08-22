@@ -1,9 +1,9 @@
-##<c> Hi there 👋 Jayadev Narayanan this side </c>
+# 👋 Hi there! I'm **Jayadev Narayanan**
 
+- 🔭 I’m currently building a **Full-Stack Blood Bank Application** called **RaktaMitra**
+- 🌱 Passionate about learning **Flutter** and the **MERN Stack**
+- 👯 Open to collaborating on **Full-Stack Web Development** projects
+- 📫 Reach me at: **jayadev.hackathon@gmail.com**
+- 😄 Pronouns: **He/Him**
 
-- 🔭 I’m currently working on a Full stack blood bank application => RaktaMitra
-- 🌱 I’m currently learning Flutter and MERN 
-- 👯 I’m looking to collaborate on Full stack web development 
-- 📫 How to reach me: e-mail : jayadev.hackathon@gmail.com 
-- 😄 Pronouns: He/Him
--->
+Let's build something amazing together!
